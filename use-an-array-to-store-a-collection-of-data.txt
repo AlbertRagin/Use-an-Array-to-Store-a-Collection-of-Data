@@ -1,0 +1,3 @@
+let yourArray = ['one', 2, 'three', true, false];
+console.log(yourArray.lenght);
+ // Change this line
